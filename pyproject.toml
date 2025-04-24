@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "rollingcv"
-version = "0.1.0"
+version = "1.0.0"
 description = "Fixed-window cross-validation for time series (scikit-learn compatible)"
 authors = [{ name = "Mariano Tir" }]
 license = {text = "MIT"}
