@@ -10,7 +10,7 @@ setup(
     packages=find_packages(),
     python_requires='>=3.7',
     install_requires=[
-        'numpy>=1.18.0'
+        "numpy>=1.18.0,<2.0"
     ],
     classifiers=[
         'Programming Language :: Python :: 3',
