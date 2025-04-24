@@ -1,4 +1,8 @@
-# RollingWindowSplit
+<p align="center">
+  <img src="assets/logo.png" alt="RollingCV Logo" width="200"/>
+</p>
+
+ RollingWindowSplit
 
 **A smarter, production-ready alternative to scikit-learn's TimeSeriesSplit.**
 
