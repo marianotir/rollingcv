@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/logo.png" alt="RollingCV Logo" width="200"/>
+  <img src="https://raw.githubusercontent.com/marianotir/rollingcv/main/assets/logo.png" width="200"/>
 </p>
 
  RollingWindowSplit
