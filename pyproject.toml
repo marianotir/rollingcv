@@ -1,0 +1,16 @@
+[build-system]
+requires = ["setuptools>=42", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "rollingcv"
+version = "0.1.0"
+description = "Fixed-window cross-validation for time series (scikit-learn compatible)"
+authors = [{ name = "Mariano Tir" }]
+license = {text = "MIT"}
+readme = "README.md"
+requires-python = ">=3.7"
+dependencies = ["numpy>=1.18.0"]
+
+[project.urls]
+Homepage = "https://github.com/marianotir/rollingcv"
