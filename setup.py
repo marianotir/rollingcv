@@ -10,7 +10,8 @@ setup(
     packages=find_packages(),
     python_requires='>=3.7',
     install_requires=[
-        "numpy>=1.18.0,<2.0"
+        "numpy>=1.18.0,<2.0",
+        "scikit-learn>=0.24"
     ],
     classifiers=[
         'Programming Language :: Python :: 3',
