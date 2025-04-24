@@ -6,7 +6,6 @@ setup(
     version='0.1.0',
     description='Fixed-window cross-validation for time series (scikit-learn compatible)',
     author='Mariano Tir',
-    author_email='marianotir98@gmail.com',
     url='https://github.com/marianotir/rollingcv',
     packages=find_packages(),
     python_requires='>=3.7',
