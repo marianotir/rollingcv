@@ -11,7 +11,7 @@ from rollingcv import RollingWindowSplit
 data = np.arange(1000)
 
 # Create the cross-validator
-rws = RollingWindowSplit(n_splits=50, window_size=0.6, horizon=0.1, gap=5)
+rws = RollingWindowSplit(n_splits=10, window_size=0.6, horizon=0.1, gap=5)
 
 # Show a simple text summary
 rws.preview(data, style='default')
